@@ -1,0 +1,10 @@
+{
+  "name": "@types/ctjs",
+  "version": "1.0.0",
+  "description": "Typings for ct.js",
+  "types": "index",
+  "author": "Matthew Olsson",
+  "license": "MIT",
+  "homepage": "https://github.com/ChatTriggers/ctjs-type-defs",
+  "bugs": "https://github.com/ChatTriggers/ctjs-type-defs/issues"
+}
